@@ -6,4 +6,4 @@
 Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля.
 Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
 
-## Итоговый результат работы можно глянуть в [ТЕТРАДКЕ]([https://github.com/khav-i/sf_data_science/blob/main/stat_tests/HR-agency%20data%20research.ipynb](https://github.com/khav-i/ml_works/blob/master/project_3/Booking%20reviews%20research.ipynb)https://github.com/khav-i/ml_works/blob/master/project_3/Booking%20reviews%20research.ipynb)
+## Итоговый результат работы можно глянуть в [ТЕТРАДКЕ](https://github.com/khav-i/sf_data_science/blob/main/stat_tests/HR-agency%20data%20research.ipynb)
