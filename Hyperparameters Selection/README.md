@@ -21,20 +21,20 @@
 
 1. Знакомство с данными
 2. Базовые модели<br>
-    2. Baseline Logistic Regression<br>
-    2. Baseline Random Forest
+    2.1 Baseline Logistic Regression<br>
+    2.2 Baseline Random Forest
 3. GridSearchCV<br>
-    3. Logistic Regression & GSCV<br>
-    3. Random Forest & GSCV
+    3.1 Logistic Regression & GSCV<br>
+    3.2 Random Forest & GSCV
 4. RandomizedSearchCV<br>
-    4. Logistic Regression & RSCV<br>
-    4. Random Forest & RSCV
+    4.1 Logistic Regression & RSCV<br>
+    4.2 Random Forest & RSCV
 5. Hyperopt<br>
-    5. Logistic Regression & Hyperopt<br>
-    5. Random Forest & Hyperopt
+    5.1 Logistic Regression & Hyperopt<br>
+    5.2 Random Forest & Hyperopt
 6. Optuna<br>
-    6. Logistic Regression & Optuna<br>
-    6. Random Forest & Optuna
+    6.1 Logistic Regression & Optuna<br>
+    6.2 Random Forest & Optuna
 7. Выводы
 
 ## Результаты
