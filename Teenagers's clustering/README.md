@@ -31,4 +31,4 @@
 ожиданий в отношении их поведения. К сожалению, в такой роскоши мы здесь ограничены, и потому вынуждены обрывать это исследование
 на полуслове :)
 
-## Непосредственное знакомство с проделанной работой возможно [по ссылке](https://github.com/khav-i/ml_works/blob/master/Teenagers's%20clustering/teenagers's_clustering.ipynb)
+## Непосредственное знакомство с проделанной работой возможно осуществить [по ссылке](https://github.com/khav-i/ml_works/blob/master/Teenagers's%20clustering/teenagers's_clustering.ipynb)
