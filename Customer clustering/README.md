@@ -22,5 +22,5 @@ completeness_score = 0,90<br>
 Судя по значению метрики, кластеры получились наполненными элементами,
 а значит данные результаты можно дальше использовать для анализа.
 
-[Версия работы](https://nbviewer.org/github/khav-i/ml_works/blob/master/Customer%20clustering/clusterization.ipynb) с корректным 
+[Версия работы](https://github.com/khav-i/ml_works/blob/master/Customer%20clustering/clusterization.ipynb) с корректным 
 отображением визуализации.
